@@ -1,1 +1,2 @@
-alert("stop!!")
+//  alert("stop!!")
+console.log("hello world")
